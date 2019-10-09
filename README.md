@@ -2,4 +2,6 @@
 ## Subtitulo del Boletin 3
 **negrita**
 --negrita--
-'''codigo'''
+
+```codigo```
+
